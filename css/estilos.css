@@ -1,3 +1,11 @@
 p {
     color: red;
+    backgroun-color: blue;
+}
+body {
+    background-color: black;
+}
+
+h1 {
+    color:whitesmoke;
 }
